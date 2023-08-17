@@ -1,4 +1,4 @@
-package com.example.demo.student;
+package com.students.api.student;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
